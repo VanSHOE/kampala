@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kampala/static/css/main.c6604ed8.chunk.css",
-    "main.js": "/kampala/static/js/main.95e8d4c0.chunk.js",
-    "main.js.map": "/kampala/static/js/main.95e8d4c0.chunk.js.map",
+    "main.js": "/kampala/static/js/main.3ab15a4a.chunk.js",
+    "main.js.map": "/kampala/static/js/main.3ab15a4a.chunk.js.map",
     "runtime-main.js": "/kampala/static/js/runtime-main.89b4cdbf.js",
     "runtime-main.js.map": "/kampala/static/js/runtime-main.89b4cdbf.js.map",
     "static/js/2.59d563a4.chunk.js": "/kampala/static/js/2.59d563a4.chunk.js",
     "static/js/2.59d563a4.chunk.js.map": "/kampala/static/js/2.59d563a4.chunk.js.map",
     "index.html": "/kampala/index.html",
-    "precache-manifest.8fec829a00ab35be61516781e60fb726.js": "/kampala/precache-manifest.8fec829a00ab35be61516781e60fb726.js",
+    "precache-manifest.91dbaf97d988bc1672599a0ddf7e33fe.js": "/kampala/precache-manifest.91dbaf97d988bc1672599a0ddf7e33fe.js",
     "service-worker.js": "/kampala/service-worker.js",
     "static/css/main.c6604ed8.chunk.css.map": "/kampala/static/css/main.c6604ed8.chunk.css.map",
     "static/js/2.59d563a4.chunk.js.LICENSE.txt": "/kampala/static/js/2.59d563a4.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.89b4cdbf.js",
     "static/js/2.59d563a4.chunk.js",
     "static/css/main.c6604ed8.chunk.css",
-    "static/js/main.95e8d4c0.chunk.js"
+    "static/js/main.3ab15a4a.chunk.js"
   ]
 }

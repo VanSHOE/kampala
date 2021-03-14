@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ff7281f0588d519bc7bfcc04ec3ef24",
+    "revision": "ae07298e7689f7fb60701747e606955d",
     "url": "/kampala/index.html"
   },
   {
-    "revision": "63544532e4f01909ce60",
+    "revision": "f181cd66f09e2b7878bf",
     "url": "/kampala/static/css/main.c6604ed8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kampala/static/js/2.59d563a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63544532e4f01909ce60",
-    "url": "/kampala/static/js/main.95e8d4c0.chunk.js"
+    "revision": "f181cd66f09e2b7878bf",
+    "url": "/kampala/static/js/main.3ab15a4a.chunk.js"
   },
   {
     "revision": "ddeb722d76dec13628e6",

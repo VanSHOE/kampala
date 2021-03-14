@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kampala/precache-manifest.8fec829a00ab35be61516781e60fb726.js"
+  "/kampala/precache-manifest.91dbaf97d988bc1672599a0ddf7e33fe.js"
 );
 
 self.addEventListener('message', (event) => {
