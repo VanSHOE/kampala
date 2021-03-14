@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kampala/static/css/main.c6604ed8.chunk.css",
+    "main.js": "/kampala/static/js/main.95e8d4c0.chunk.js",
+    "main.js.map": "/kampala/static/js/main.95e8d4c0.chunk.js.map",
+    "runtime-main.js": "/kampala/static/js/runtime-main.89b4cdbf.js",
+    "runtime-main.js.map": "/kampala/static/js/runtime-main.89b4cdbf.js.map",
+    "static/js/2.59d563a4.chunk.js": "/kampala/static/js/2.59d563a4.chunk.js",
+    "static/js/2.59d563a4.chunk.js.map": "/kampala/static/js/2.59d563a4.chunk.js.map",
+    "index.html": "/kampala/index.html",
+    "precache-manifest.8fec829a00ab35be61516781e60fb726.js": "/kampala/precache-manifest.8fec829a00ab35be61516781e60fb726.js",
+    "service-worker.js": "/kampala/service-worker.js",
+    "static/css/main.c6604ed8.chunk.css.map": "/kampala/static/css/main.c6604ed8.chunk.css.map",
+    "static/js/2.59d563a4.chunk.js.LICENSE.txt": "/kampala/static/js/2.59d563a4.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/kampala/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/kampala/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/kampala/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/kampala/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/kampala/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/kampala/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/kampala/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/kampala/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/kampala/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/kampala/static/media/features-split-image-03.87e4d053.png",
+    "static/media/jslogo.jpeg": "/kampala/static/media/jslogo.ef999002.jpeg",
+    "static/media/video-placeholder.jpg": "/kampala/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b4cdbf.js",
+    "static/js/2.59d563a4.chunk.js",
+    "static/css/main.c6604ed8.chunk.css",
+    "static/js/main.95e8d4c0.chunk.js"
+  ]
+}
